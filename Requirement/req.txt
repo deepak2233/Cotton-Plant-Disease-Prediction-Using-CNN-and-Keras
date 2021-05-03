@@ -1,0 +1,4 @@
+pip install tensorflow==2.1.0
+pip install Keras==2.4.3
+pip install numpy==1.18.5
+pip install flask==1.1.2
